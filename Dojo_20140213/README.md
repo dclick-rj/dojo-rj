@@ -19,7 +19,6 @@ Retrospectiva do Dojo:
 
 | Bom  | Ruim |
 | ------------- | ------------- |
-| Problema resolvido  | Lição de moral do Léo  |
 | Pessoas novas  | Disciplina nas regras  |
 | Javascript  | Zoeira  |
 | Fúlvio programando  | Horário  |
@@ -27,3 +26,4 @@ Retrospectiva do Dojo:
 | Mais Baby Steps  | Problema fácil  |
 | Comida  | Preparação do ambiente em cima da hora  |
 | Ambiente  |  |
+| Problema resolvido  |  |
