@@ -2,16 +2,16 @@ Dojo realizado dia 13/02/2014
 =======
 
 Participantes (10):
-Paulo Pereira
-Leonardo Andrade
-João Neves
-Thiago Souza
-Diogo Soares
-Sergio Santos
-Fúlvio Heleno
-João Bosco
-Fabiano Alvarenga
-Gustavo Martinez
+ * Paulo Pereira
+ * Leonardo Andrade
+ * João Neves
+ * Thiago Souza
+ * Diogo Soares
+ * Sergio Santos
+ * Fúlvio Heleno
+ * João Bosco
+ * Fabiano Alvarenga
+ * Gustavo Martinez
 
 Retrospectiva do Dojo:
 
