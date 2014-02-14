@@ -1,6 +1,8 @@
 Dojo realizado dia 13/02/2014
 =======
 
+Problema escolhido [Escrevendo no celular](http://dojopuzzles.com/problemas/exibe/escrevendo-no-celular/).
+
 Participantes (10):
  * Paulo Pereira
  * Leonardo Andrade
